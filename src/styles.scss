@@ -1,2 +1,7 @@
 @import "Sass/reset";
-// @import "Sass/mixins";
+@import "Sass/mixins";
+@import "Sass/variables";
+
+* {
+  font-size: 21px;
+}

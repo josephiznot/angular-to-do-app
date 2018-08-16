@@ -1,0 +1,6 @@
+@import "~src/styles";
+
+.date-container {
+  @include flex(flex-start, center, row);
+  @include dimensions(100vw, 80px, 0px);
+}
